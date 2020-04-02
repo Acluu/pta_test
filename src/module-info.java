@@ -1,0 +1,2 @@
+module pta_test {
+}
